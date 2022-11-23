@@ -1,4 +1,9 @@
-In this project I used:
+Basic Ruby Projects
+
+
+1.
+
+In the Caesar cypher project I used:
 
 -> nested loops
 -> array to string method(.join)
@@ -8,5 +13,3 @@ In this project I used:
 -> ascii methods
 -> insertion of element in array
 
-Took me 1hour to do this!
-But didn't give up. That's what matters.
