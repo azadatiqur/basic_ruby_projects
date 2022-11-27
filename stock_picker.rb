@@ -7,9 +7,7 @@
 
 
 =end
-rescue => exception
-    
-end
+
 def stock_picker(stock_price_array)
     stock_price_array_size = stock_price_array.length
     buy_index = 0
