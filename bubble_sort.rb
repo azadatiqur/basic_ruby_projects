@@ -18,11 +18,11 @@ def bubble_sort(ara)
             break
         end
         not_sorted = false
-        for i in 0..(ara_size-i-2) do
-            if ara[i] > ara[i+1] 
-                temp = ara[i]
-                ara[i] = ara[i+1]
-                ara[i+1] = temp
+        for j in 0..(ara_size-i-2) do
+            if ara[j] > ara[j+1] 
+                temp = ara[j]
+                ara[j] = ara[j+1]
+                ara[j+1] = temp
                 not_sorted = true
             end
         end 
